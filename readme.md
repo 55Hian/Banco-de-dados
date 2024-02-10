@@ -23,4 +23,14 @@ Erros de preenchimento |
 <br>
 <br>
 
+
+<center>
+
+Links importantes | Descrição
+:-----: | :----:
+ https://apex.oracle.com/pls/apex/r/apex/workspace/home?session=116163422700046 | Apex Oracle (Learn)
+https://academy.oracle.com/en/oa-web-overview.html | Oracle academy (course)
+https://portal.azure.com/ | Portal Azure (Cloud)
+
+</center>
  
