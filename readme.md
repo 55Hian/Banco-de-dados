@@ -33,4 +33,21 @@ https://academy.oracle.com/en/oa-web-overview.html | Oracle academy (course)
 https://portal.azure.com/ | Portal Azure (Cloud)
 
 </center>
+
+<br>
+<br>
+
+Comando SQL | Descrição
+:-------: | :--------:
+SELECT | extrai dados de um banco de dados
+UPDATE | atualiza dados em um banco de dados
+DELETE | exclui dados de um banco de dados
+INSERT INTO | insere novos dados em um banco de dados
+CREATE DATABASE | cria um novo banco de dados
+ALTER DATABASE | modifica um banco de dados
+CREATE TABLE | cria uma nova tabela
+ALTER TABLE | modifica uma tabela
+DROP TABLE | exclui uma tabela
+CREATE INDEX | cria um índice (chave de pesquisa)
+DROP INDEX | exclui um índice
  
