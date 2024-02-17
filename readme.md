@@ -43,7 +43,7 @@ https://www.devmedia.com.br/guia/modelagem-de-dados/34654 | Modelagem de banco d
 
 ## Por onde começar?
 ### Modelar o banco de dados
-##### Esquema - Define a estrutura do banco de dados
+<!-- ##### Esquema - Define a estrutura do banco de dados
 ##### Instância - banco de dados em um esquema
 ##### Estado do banco de dados
 ##### Catálogo (dicionário de dados)– armazena informação sobre o esquema
@@ -51,13 +51,46 @@ https://www.devmedia.com.br/guia/modelagem-de-dados/34654 | Modelagem de banco d
 ### Arquitetura de 3 camadas
 ####  Esquema Interno
 #### Esquema Conceitual
-#### Esquema Externo --> Visões do usuario
+#### Esquema Externo -- Visões do usuario
+
+<br>
+<br> -->
 
 <center>
 
 ### Exemplo de modelagem conceitual
 
-![Alt text](image.png)
+<img width="600" src="./image-1.png">
+
+
+
+ #### chave estrangeira sempre ficara do lado do n
+
+ ### Após realizar o modelo conceitual, partiremos para o modelo lógico
+ #### para exportar o modelo lógico selecione: Diagrama > Comandos > Converter para lógico
+
+<br>
+<br>
+
+<img width="600" src="./image-2.png">
+
+<br>
+<br>
+
+</center>
+
+* Atributos volateis == Valores que mudam, exemplo: Idade, Estado civil, Altura, Peso
+* Atributos não-volateis == Valores que não mudam, exemplo: Nome
+* Atributos Simples == Possuem apenas um valor, exemplo: Cor, Idade, Peso, Sálario
+* Atributos Composto == Possuem varios valores, exemplo: Endereço, Data, Filiação
+<br>
+<br>
+<center>
+
+### Notação Barker
+
+<img width="600" src="./image-3.png">
+
 
 </center>
 
@@ -68,7 +101,7 @@ https://www.devmedia.com.br/guia/modelagem-de-dados/34654 | Modelagem de banco d
 
 <center>
 
-Comando SQL | Descrição1
+Comando SQL | Descrição
 :-------: | :--------:
 SELECT | extrai dados de um banco de dados
 UPDATE | atualiza dados em um banco de dados
