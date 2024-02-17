@@ -97,6 +97,12 @@ https://www.devmedia.com.br/guia/modelagem-de-dados/34654 | Modelagem de banco d
 <br>
 <br>
 
+## Exercicio
+<center>
+
+![Alt text](image-5.png)
+
+ </center>
 ## Comando banco de dados
 
 <center>
