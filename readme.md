@@ -37,6 +37,18 @@ https://portal.azure.com/ | Portal Azure (Cloud)
 <br>
 <br>
 
+sql tools
+my sql
+<center>
+
+Comandos basicos SQL | Descrição
+:-------: | :--------:
+show databases | Mostra os bancos de dados
+use sakila | seleciona um banco de dados
+show tables | mostra as tabelas
+</center>
+
+<center>
 Comando SQL | Descrição
 :-------: | :--------:
 SELECT | extrai dados de um banco de dados
@@ -50,4 +62,4 @@ ALTER TABLE | modifica uma tabela
 DROP TABLE | exclui uma tabela
 CREATE INDEX | cria um índice (chave de pesquisa)
 DROP INDEX | exclui um índice
- 
+ </center>
