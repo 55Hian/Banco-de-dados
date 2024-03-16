@@ -133,4 +133,3 @@ DROP TABLE | exclui uma tabela
 CREATE INDEX | cria um índice (chave de pesquisa)
 DROP INDEX | exclui um índice
  </center>
- </center>
